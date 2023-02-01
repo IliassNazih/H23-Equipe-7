@@ -11,8 +11,8 @@ Projet consistant à rendre accessible à tous un différents services. Les serv
 - Tonte de gazon
 
 - Entretien de piscine
-  -Ouverture/Fermeture
-  -Nettoyage
+  - Ouverture/Fermeture
+  - Nettoyage
   
 - Installation de TEMPO
 
